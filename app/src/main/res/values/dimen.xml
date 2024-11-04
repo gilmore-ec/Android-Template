@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mainMarginHorizontal">20dp</dimen>
+    <dimen name="mainMarginVertical">30dp</dimen>
+    <dimen name="containerMarginHorizontal">10dp</dimen>
+    <dimen name="containerMarginVertical">20dp</dimen>
+    <dimen name="titleTextSize">30dp</dimen>
+    <dimen name="headerTextSize">27sp</dimen>
+    <dimen name="subHeaderTextSize">25sp</dimen>
+    <dimen name="commonTextSize">20sp</dimen>
+</resources>
